@@ -1,4 +1,4 @@
-# 5-Day Gen AI Intensive Course | Kaggle
+# 5-Day Gen AI Intensive Course | Kaggle 2025
 Welcome to the 5-Day Gen AI Intensive Course repository by Google and Kaggle. This resource hub includes links to daily whitepapers, podcasts, assignments, and more.
 
 Designed by Google’s ML researchers and engineers, this online course provides an in-depth exploration of Generative AI technologies. Through a mix of conceptual insights and hands-on coding exercises, you'll gain the knowledge and confidence to work on Gen AI projects. For more details, visit: [Kaggle 5-Day Gen AI Course](https://www.kaggle.com/learn-guide/5-day-genai).
