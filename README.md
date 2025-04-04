@@ -70,7 +70,7 @@ You will learn how Large Language Models (LLMs) can be applied to solve domain-s
 # Day 5 - MLOps for Generative AI 
 ## What You'll Learn in This Course
 You explore how to operationalize Generative AI on Vertex AI using MLOps. It covers best practices for deploying, managing, and scaling AI models in production, integrating MLOps workflows for automation, and optimizing performance. Also, the whitepaper provides insights into real-world applications and strategies for maintaining AI systems efficiently.
-## 🎬 Watch Day 5 livestream recording [here]()
+## 🎬 Watch Day 5 livestream recording [here](https://www.youtube.com/live/eZ-8UQ_t4YM)
 ## Today's Assignment 📝
 
 - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Hbk8UXavHrk&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=8) for this unit.
